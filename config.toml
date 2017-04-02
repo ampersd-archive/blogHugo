@@ -1,0 +1,44 @@
+languageCode = "en-us"
+title = "UP and DOWN"
+baseURL = "http://blog.akorepanov.ru"
+disqusShortname = "akorepanovru"
+googleAnalytics = "UA-46203511-1"
+
+
+[Params]
+  subtitle = "Books, Code, Travel"
+  logo = "img/avatar.jpg"
+  # favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = true
+  gcse = "011565688573691861543:1taivy25s-a" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+
+[[menu.main]]
+    name = "Blog"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Tags"
+    url = "/tags"
+    weight = 2
+
+[[menu.main]]
+    name = "Feedback"
+    url = "/feedback"
+    weight = 3
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"
+
+[Author]
+  name = "Anton Korepanov"
+  email = "tony1000@ya.ru"
+  facebook = "100000507287251"
+  github = "ampersd"
+  instagram = "ampersd"
