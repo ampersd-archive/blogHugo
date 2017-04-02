@@ -1,0 +1,2 @@
+# blogHugo
+hugo static blog
