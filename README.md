@@ -1,9 +1,9 @@
 # blogHugo
 hugo static blog
 
-# build
+# build and deploy
 1. `hugo --theme=beautifulhugo`
-2. copy `/public` folder
+2. run `./deploy.sh` (`blogHugo` and `blog` repos should be in the same parent directory)
 3. push
 
 or
