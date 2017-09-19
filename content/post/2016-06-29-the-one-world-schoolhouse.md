@@ -4,7 +4,7 @@ categories = ["Books"]
 date = 2016-06-29T00:00:00Z
 description = ""
 draft = false
-slug = "the-one-world-schoolhouse"
+slug = "2016-06-29-the-one-world-schoolhouse"
 tags = ["Books"]
 title = "Салман Хан \"Весь мир - школа\""
 
@@ -65,6 +65,6 @@ title = "Салман Хан \"Весь мир - школа\""
 ---
 
 С этой рецензией связаны  
-[Цитаты]({{< relref "the-one-world-schoolhouse-quotes.md" >}})  
-[Как происходит обучение]({{< relref "how-to-study.md" >}})  
-[Учеба в MIT]({{< relref "studies-at-mit.md" >}})
+[Цитаты]({{< relref "2016-06-30-the-one-world-schoolhouse-quotes.md" >}})  
+[Как происходит обучение]({{< relref "2016-06-29-how-to-study.md" >}})  
+[Учеба в MIT]({{< relref "2016-06-29-studies-at-mit.md" >}})

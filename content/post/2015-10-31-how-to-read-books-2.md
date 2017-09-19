@@ -4,7 +4,7 @@ categories = ["Books"]
 date = 2015-10-31T00:00:00Z
 description = ""
 draft = false
-slug = "how-to-read-books-2"
+slug = "2015-10-31-how-to-read-books-2"
 tags = ["Books"]
 title = "Три способа чтения. Адлер М."
 
@@ -12,7 +12,7 @@ title = "Три способа чтения. Адлер М."
 
 
 [![Mortimer-Adler-adlerbook](http://res.cloudinary.com/ampersd/image/upload/v1467022604/Mortimer-Adler-adlerbook_yblacx.jpg)](http://res.cloudinary.com/ampersd/image/upload/v1467022604/Mortimer-Adler-adlerbook_yblacx.jpg)  
- Эту статью можно назвать второй частью конспекта книги «Как читать книги» Мортимера Адлера. [Первая]({{< relref "how-to-read-books-1.md" >}}).  
+ Эту статью можно назвать второй частью конспекта книги «Как читать книги» Мортимера Адлера. [Первая]({{< relref "2015-10-31-how-to-read-books-1.md" >}}).  
   
  Итак, при чтении нехудожественной литературы Адлер выделяет три способа чтения:
 

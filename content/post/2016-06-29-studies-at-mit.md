@@ -4,7 +4,7 @@ categories = ["Thoughts"]
 date = 2016-06-29T00:00:00Z
 description = ""
 draft = false
-slug = "studies-at-mit"
+slug = "2016-06-29-studies-at-mit"
 tags = ["Thoughts"]
 title = "Учеба в MIT"
 
@@ -12,7 +12,7 @@ title = "Учеба в MIT"
 
 ![](http://res.cloudinary.com/ampersd/image/upload/v1467152350/o-MIT-facebook_zizv3u.jpg)
 
-Из книги "[Весь мир - школа]({{ <relref "the-one-world-schoolhouse.md"> }})" Салмана Хана (The One World Schoolhouse).
+Из книги "[Весь мир - школа]({{ <relref "2016-06-30-the-one-world-schoolhouse.md"> }})" Салмана Хана (The One World Schoolhouse).
 
 Хан (создатель знаменитой Академии Хана) о своей учебе в Массачусетском технологическом институте:
 
