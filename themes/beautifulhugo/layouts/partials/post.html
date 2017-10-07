@@ -19,6 +19,10 @@
       </ul>
 
       {{ if (.Params.comments) | or (and (or (not (isset .Params "comments")) (eq .Params.comments nil)) (.Site.Params.comments)) }}
+        <br/>
+        <div class="vk-comments">
+          {{ partial "vk.html" . }}
+        </div>
         {{ if .Site.DisqusShortname }}
           <div class="disqus-comments">
             {{ template "_internal/disqus.html" . }}
