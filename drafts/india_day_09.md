@@ -7,7 +7,7 @@ date = 2017-09-02T00:00:00Z
 description = ""
 draft = true
 slug = "travel-to-himalayas"
-title = "Индия 2015 день 1"
+title = "Индия 2015, 11 апреля"
 
 ------
 

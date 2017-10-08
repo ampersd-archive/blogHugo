@@ -7,7 +7,7 @@ date = 2017-09-02T00:00:00Z
 description = ""
 draft = true
 slug = "travel-to-himalayas"
-title = "Индия 2015 день 1"
+title = "Индия 2015, 6 апреля"
 
 ------
 
@@ -85,3 +85,5 @@ title = "Индия 2015 день 1"
 >
 > Спали мы вроем на 2х спальной кровати. Это, блин, странно.
 
+Вот видео этого дня:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Eidr37m7fXY" frameborder="0" allowfullscreen></iframe>

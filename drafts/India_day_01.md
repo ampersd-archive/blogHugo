@@ -7,7 +7,7 @@ date = 2017-09-02T00:00:00Z
 description = ""
 draft = true
 slug = "india-day-1"
-title = "Индия 2015 день 1-2 (2-3 апреля)"
+title = "Индия 2015, 2-3 апреля, Дели"
 
 ------
 

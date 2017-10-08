@@ -7,7 +7,7 @@ date = 2017-09-02T00:00:00Z
 description = ""
 draft = true
 slug = "travel-to-himalayas"
-title = "Индия 2015 день 1"
+title = "Индия 2015, 8 апреля"
 
 ------
 
@@ -129,3 +129,6 @@ title = "Индия 2015 день 1"
 > Это была лучшая сессия до этого момента.
 >
 > Кстати, в этот день я проспал йогу. Илья сказал, что они дышали через каждую ноздрю.
+
+Вот видео этого дня
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oiN4abGTj0g" frameborder="0" allowfullscreen></iframe>
