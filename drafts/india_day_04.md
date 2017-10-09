@@ -86,4 +86,6 @@ title = "Индия 2015, 6 апреля"
 > Спали мы вроем на 2х спальной кровати. Это, блин, странно.
 
 Вот видео этого дня:
+<div style="text-align: center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Eidr37m7fXY" frameborder="0" allowfullscreen></iframe>
+</div>

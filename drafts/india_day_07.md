@@ -140,3 +140,8 @@ title = "Индия 2015, 9 апреля"
 > Многие из них также впервые видели Гималаи, удивительной красоты места.
 >
 > Акшун впервые увидел песок здесь, в лагере, на берегу реки Ганга.
+
+видео этого дня:
+<div style="text-align: center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U7X37MGSKg" frameborder="0" allowfullscreen></iframe>
+</div>

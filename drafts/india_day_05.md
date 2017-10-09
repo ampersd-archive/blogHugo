@@ -94,4 +94,6 @@ title = "Индия 2015, 7 апреля"
 > АНТОН, УЧИ АНГЛИЙСКИЙ!
 
 Видео этого дня:
+<div style="text-align: center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OTDXLSE_GR0" frameborder="0" allowfullscreen></iframe>
+</div>

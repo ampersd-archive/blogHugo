@@ -131,4 +131,6 @@ title = "Индия 2015, 8 апреля"
 > Кстати, в этот день я проспал йогу. Илья сказал, что они дышали через каждую ноздрю.
 
 Вот видео этого дня
+<div style="text-align: center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oiN4abGTj0g" frameborder="0" allowfullscreen></iframe>
+</div>
