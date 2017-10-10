@@ -37,11 +37,7 @@ title = "Индия 2015, 2-3 апреля, Дели"
 
 Etihad Airlines до Абу-Даби, лететь часов 6-8. Попутно пролетали через Иран, видели в окно какие-то горы.
 
-![](http://res.cloudinary.com/ampersd/image/upload/v1507574538/WP_20141125_009_kdafgu.jpg)
-
-![](http://res.cloudinary.com/ampersd/image/upload/v1507574540/WP_20141125_003_pt0d9c.jpg)
-
-![](http://res.cloudinary.com/ampersd/image/upload/v1507574543/WP_20141125_005_bydeie.jpg)
+![](http://res.cloudinary.com/ampersd/image/upload/v1507574540/India-01/WP_20141125_003_pt0d9c.jpg)
 
 ![](http://res.cloudinary.com/ampersd/image/upload/v1507616462/India-01/WP_20141125_013.jpg)
 
