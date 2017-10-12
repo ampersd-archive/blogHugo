@@ -7,6 +7,8 @@ date = 2017-09-02T00:00:00Z
 description = ""
 draft = true
 slug = "travel-to-himalayas"
+categories = "Travel"
+tags = ["Travel"]
 title = "Индия 2015, 10 апреля"
 
 +++
