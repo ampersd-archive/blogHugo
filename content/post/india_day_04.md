@@ -165,6 +165,8 @@ NO PARKING:
 
 > Важная мысль: для человека жизненно важны следюущие вещи - воздух, вода и еда. Они должны быть чистыми, чтобы человек был здоров.
 
+![](http://res.cloudinary.com/ampersd/image/upload/v1508437346/India-04/File16.jpg)
+
 ![](http://res.cloudinary.com/ampersd/image/upload/v1507574574/India-04/WP_20150315_025_awlkcu.jpg)
 
 ![](http://res.cloudinary.com/ampersd/image/upload/v1507574574/India-04/WP_20150315_026_doxech.jpg)

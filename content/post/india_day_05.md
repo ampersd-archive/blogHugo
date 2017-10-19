@@ -119,6 +119,10 @@ title = "Индия 2015, 7 апреля"
 
 ![](http://res.cloudinary.com/ampersd/image/upload/v1507574648/India-05/WP_20150316_055_sdvrde.jpg)
 
+Сделали групповое фото:
+
+![](http://res.cloudinary.com/ampersd/image/upload/v1508437230/India-05/File11.jpg)
+
 Далее мы пошли искать школу (вроде бы) в местной деревне.
 
 
