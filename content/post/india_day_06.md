@@ -202,7 +202,11 @@ title = "Индия 2015, 8 апреля"
 
 ## Himalayan Advanture Institute
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13753.06366046241!2d78.0365773!3d30.4852241!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xaeec51afbd34565f!2sHimalaya+Adventure+Institute!5e0!3m2!1sen!2sru!4v1508435429548" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<div class="Embed">
+<div>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13753.06366046241!2d78.0365773!3d30.4852241!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xaeec51afbd34565f!2sHimalaya+Adventure+Institute!5e0!3m2!1sen!2sru!4v1508435429548" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+</div>
+</div>
 
 ![](http://res.cloudinary.com/ampersd/image/upload/v1507580779/India-06/SDC15172_blzrwh.jpg)
 
@@ -399,6 +403,25 @@ title = "Индия 2015, 8 апреля"
 Проспал, потому что сидел с индусами до поздна днем ранее.
 
 Вот видео этого дня
-<div style="text-align: center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oiN4abGTj0g" frameborder="0" allowfullscreen></iframe>
+<div class="Embed">
+  <div style="text-align: center" >
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/oiN4abGTj0g" frameborder="0" allowfullscreen></iframe>
+  </div>
 </div>
+
+<style>
+
+.Embed > div {
+  padding-bottom: 56.25%;
+  position: relative;
+}
+
+.Embed iframe {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
+
+</style>

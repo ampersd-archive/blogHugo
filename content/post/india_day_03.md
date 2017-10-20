@@ -166,6 +166,26 @@ title = "Индия 2015, 5 апреля"
 Впереди много славных дней вместе.
 
 Видео этого дня:
+
+<div class="Embed">
 <div style="text-align: center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Lm-EHZo88kk" frameborder="0" allowfullscreen></iframe>
 </div>
+</div>
+
+<style>
+
+.Embed > div {
+  padding-bottom: 56.25%;
+  position: relative;
+}
+
+.Embed iframe {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
+
+</style>

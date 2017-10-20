@@ -83,7 +83,11 @@ NO PARKING:
 
 ## Ферма Navdanya
 
+<div class="Embed">
+<div>
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13775.392501308568!2d77.8749581!3d30.3268375!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb1a7b9d0aa9a05b0!2sNavdanya+Biodiversity+Farm!5e0!3m2!1sen!2sru!4v1508267432912" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+</div>
+</div>
 
 ![](http://res.cloudinary.com/ampersd/image/upload/v1507574571/India-04/WP_20150315_001_qttgoi.jpg)
 
@@ -227,7 +231,11 @@ NO PARKING:
 
 ## Школа Purkal Youth Development School
 
+<div class="Embed">
+<div>
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13763.622652311795!2d78.0634614!3d30.4104183!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5abe26633157b998!2sPurkal+Youth+Development+Society!5e0!3m2!1sen!2sru!4v1508273951779" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+</div>
+</div>
 
 ![](http://res.cloudinary.com/ampersd/image/upload/v1507574633/India-04/WP_20150315_136_hvbmym.jpg)
 
@@ -342,6 +350,26 @@ NO PARKING:
 > Спали мы вроем на 2х спальной кровати. Это, блин, странно.
 
 Вот видео этого дня:
+
+<div class="Embed">
 <div style="text-align: center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Eidr37m7fXY" frameborder="0" allowfullscreen></iframe>
 </div>
+</div>
+
+<style>
+
+.Embed > div {
+  padding-bottom: 56.25%;
+  position: relative;
+}
+
+.Embed iframe {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
+
+</style>

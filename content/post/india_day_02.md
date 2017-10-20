@@ -36,7 +36,12 @@ title = "Индия 2015, 4 апреля"
 ![](http://res.cloudinary.com/ampersd/image/upload/v1507574542/India-02/WP_20150313_003_obs5ut.jpg)
 
 Университет Doon University:
+
+<div class="Embed">
+<div>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3456.7303039573058!2d78.04313182444992!3d30.267154792901906!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39092939bfa1072b%3A0x36f414af3f3e8aab!2sDoon+University!5e1!3m2!1sen!2sru!4v1507790883768" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+</div>
+</div>
 
 Забор:
 
@@ -66,7 +71,11 @@ title = "Индия 2015, 4 апреля"
 
 > Там нашли guest house, нам выделили номер.
 
+<div class="Embed">
+<div>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3248.819707847106!2d78.04294390327571!3d30.26607647815951!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390929379d7e3719%3A0x92d977ae511ccf6b!2sFaculty+Lodge!5e0!3m2!1sen!2sru!4v1507791353635" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+</div>
+</div>
 
 ![](http://res.cloudinary.com/ampersd/image/upload/v1507575103/India-02/WP_20150313_019_ogfx7v.jpg)
 
@@ -167,3 +176,20 @@ title = "Индия 2015, 4 апреля"
 > Также нравится то, что мы будем есть индусскую национальную кухню и путешествовать по живописным местам.
 >
 > Сейчас 21:45 по местному.
+
+<style>
+
+.Embed > div {
+  padding-bottom: 56.25%;
+  position: relative;
+}
+
+.Embed iframe {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
+
+</style>
