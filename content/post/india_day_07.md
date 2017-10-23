@@ -171,7 +171,7 @@ title = "Индия 2015, 9 апреля"
 
 > После этого мы часа четыре ездили по горам пока не выехали к какому-то городу, который стоит на Ганге.
 
-Скорее всего это был Rishikesh (https://www.google.ru/maps/place/Rishikesh,+Uttarakhand,+India/@30.0876741,78.2355034,12882m/data=!3m2!1e3!4b1!4m13!1m7!3m6!1s0x3909470eb8ee57c9:0x4e449176a640f5f3!2sHaridwar,+Uttarakhand,+India!3b1!8m2!3d29.9456906!4d78.1642478!3m4!1s0x39093e67cf93f111:0xcc78804a6f941bfe!8m2!3d30.0869195!4d78.2676315), но я не уверен.
+Скорее всего это был Rishikesh ( [google maps](https://www.google.ru/maps/place/Rishikesh,+Uttarakhand,+India/@30.0876741,78.2355034,12882m/data=!3m2!1e3!4b1!4m13!1m7!3m6!1s0x3909470eb8ee57c9:0x4e449176a640f5f3!2sHaridwar,+Uttarakhand,+India!3b1!8m2!3d29.9456906!4d78.1642478!3m4!1s0x39093e67cf93f111:0xcc78804a6f941bfe!8m2!3d30.0869195!4d78.2676315) ), но я не уверен.
 
 ![](http://res.cloudinary.com/ampersd/image/upload/v1508700919/India-07/File12.jpg)
 
