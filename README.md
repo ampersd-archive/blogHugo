@@ -1,5 +1,5 @@
 # blogHugo
-hugo static blog
+hugo static blog - содержит мои посты с 2013 по 2016-ый года
 
 # build and deploy
 1. `hugo --theme=beautifulhugo`
